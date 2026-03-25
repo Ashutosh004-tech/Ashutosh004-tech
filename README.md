@@ -1,23 +1,9 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7928ca,50:4c7cf5,100:2afadf&text=Hey,%20I'm%20Suman!&fontColor=ffffff&fontSize=60&stroke=000000&fontAlignY=40&animation=twinkling&strokeWidth=1&section=header&reversal=true)
+## Hii, FROM ASHUTOSH PANIGRHI
 
 >> ## *Nice to see you ...* 🤗
 
 
-<!-- <table align="center">
-  <tr>
-        <td align="center" style="vertical-align: middle; padding: 5px;">
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
-           alt="Developer GIF"
-           style="border-radius:4px; max-width:110px; width:100%; height:auto;">
-    </td>
-    <td align="center" style="vertical-align: middle; padding: 10px;">
-      <img src="https://readme-typing-svg.demolab.com?font=Faster+One&size=40&duration=800&pause=5000&color=1E90FF&width=550&lines=MERN+Stack+Developer" 
-           alt="MERN Stack Developer"><br>
-      <img src="https://readme-typing-svg.demolab.com?font=Faster+One&size=30&duration=500&pause=3000&color=1E90FF&width=420&lines=Learning+DSA+in+Java" 
-           alt="Learning DSA in Java">
-    </td>
-  </tr>
-</table> -->
+
 
 >> ## *Currently Working On ...*
 <p align="center">
@@ -105,10 +91,6 @@
 </div>
 
 
-<div align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&fontFamily=&preferLogin=false">    <img  alt="Sumeet011's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Sumeet011?cardType=github&theme=github-dark&fontFamily=&preferLogin=false" />  </a></div>
-
-
 ###
 
 <table align="center">
@@ -127,13 +109,10 @@
 
 
 <p align="center" style="margin-top:20px">
-  <a href="mailto:sumankandisuman@gmail.com">
+  <a href="mailto:ashutoshpanigrahi11@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://suman-7z.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-363636?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio Badge"/>
-  </a>
-  <a href="https://linkedin.com/in/suman_kandi" target="_blank">
+  <a href="https://linkedin.com/in/ashutosh-panigrahii" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
 </p>
