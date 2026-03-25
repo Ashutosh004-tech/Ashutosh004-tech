@@ -1,18 +1,141 @@
-# 💫 About Me:
-Hi, I'm Ashutosh Panigrahi 👋  <br>MCA student with a strong interest in Full Stack Web Development (MERN Stack).  <br>Skilled in building scalable applications using JavaScript, Node.js, Express, and MongoDB.  <br>Hackathon achiever with a passion for problem-solving and real-world project development.  <br>Currently seeking internship opportunities to enhance my skills and contribute as a developer.
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7928ca,50:4c7cf5,100:2afadf&text=Hey,%20I'm%20Suman!&fontColor=ffffff&fontSize=60&stroke=000000&fontAlignY=40&animation=twinkling&strokeWidth=1&section=header&reversal=true)
+
+>> ## *Nice to see you ...* 🤗
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/1_.avyukt._1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutosh-panigrahii) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashutoshpanigrahi11@gmail.com) 
+<!-- <table align="center">
+  <tr>
+        <td align="center" style="vertical-align: middle; padding: 5px;">
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
+           alt="Developer GIF"
+           style="border-radius:4px; max-width:110px; width:100%; height:auto;">
+    </td>
+    <td align="center" style="vertical-align: middle; padding: 10px;">
+      <img src="https://readme-typing-svg.demolab.com?font=Faster+One&size=40&duration=800&pause=5000&color=1E90FF&width=550&lines=MERN+Stack+Developer" 
+           alt="MERN Stack Developer"><br>
+      <img src="https://readme-typing-svg.demolab.com?font=Faster+One&size=30&duration=500&pause=3000&color=1E90FF&width=420&lines=Learning+DSA+in+Java" 
+           alt="Learning DSA in Java">
+    </td>
+  </tr>
+</table> -->
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ashutosh004-tech&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ashutosh004-tech&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh004-tech&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+>> ## *Currently Working On ...*
+<p align="center">
+  <em><b>Building full-stack applications with MERN </b> | <b>Mastering Data Structures & Algorithms in Java</b> | <b>Open to collaborations!</b></em>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ashutosh004-tech&icon=4&color=3)](https://visitcount.itsvg.in)
+>> ##  *Things I code with ...* 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="45" height="45"/><br/>
+      <sub>React</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45"/><br/>
+      <sub>Node.js</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45"/><br/>
+      <sub>Express</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45" height="45"/><br/>
+      <sub>MySQL</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45"/><br/>
+      <sub>MongoDB</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45"/><br/>
+      <sub>TailwindCSS</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="45" height="45"/><br/>
+      <sub>Java</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="45" height="45"/><br/>
+      <sub>Git</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="45" height="45"/><br/>
+      <sub>GitHub</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" width="45" height="45"/><br/>
+      <sub>CSS</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45"/><br/>
+      <sub>JavaScript</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" width="45" height="45"/><br/>
+      <sub>HTML</sub>
+    </td>
+  </tr>
+</table>
+
+
+---------
+<h1 align="center">Hey 👋What's Up?</h1>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="python logo"  />
+  
+  
+</div>
+
+
+<div align="center">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&fontFamily=&preferLogin=false">    <img  alt="Sumeet011's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Sumeet011?cardType=github&theme=github-dark&fontFamily=&preferLogin=false" />  </a></div>
+
+
+###
+
+<table align="center">
+  <tr>
+    <td align="center" style="vertical-align: middle; padding-right: 10px;">
+      <img src="https://media.giphy.com/media/2HnegrqbSw8mS0wcoQ/giphy.gif"
+           width="50"
+           style="border-radius:50%;"
+           alt="Wave GIF">
+    </td>
+    <td align="center" style="vertical-align: middle;">
+      <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more! 💖</b></em>
+    </td>
+  </tr>
+</table>
+
+
+<p align="center" style="margin-top:20px">
+  <a href="mailto:sumankandisuman@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://suman-7z.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-363636?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+  <a href="https://linkedin.com/in/suman_kandi" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=100&color=0:7928ca,50:4c7cf5,100:2afadf&fontAlignY=30&section=footer&reversal=false&textBg=false)
