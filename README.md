@@ -1,4 +1,4 @@
-## Hii, FROM ASHUTOSH PANIGRHI
+## Hii, ASHUTOSH PANIGRHI
 
 >> ## *Nice to see you .....* 🤗
 
@@ -7,7 +7,7 @@
 
 >> ## *Currently Working On ...*
 <p align="center">
-  <em><b>Building full-stack applications with MERN </b> | <b>Mastering Data Structures & Algorithms in Java</b> | <b>Open to collaborations!</b></em>
+  <em><b>Building full-stack applications with MERN </b> || <b>Open to collaborations!</b></em>
 </p>
 
 ---
