@@ -5,7 +5,7 @@
 
 
 
->> ## *Currently Working On ...*
+>> ## *Currently Purshing MCA...*
 <p align="center">
   <em><b>Building full-stack applications with MERN </b> || <b>Open to collaborations!</b></em>
 </p>
