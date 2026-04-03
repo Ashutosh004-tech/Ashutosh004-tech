@@ -1,120 +1,85 @@
-## Hii, ASHUTOSH PANIGRHI
+## Hi, I'm Ashutosh Panigrahi 👋
 
->> ## *Nice to see you .....* 🤗
-
-
-
-
->> ## *Currently Purshing MCA...*
 <p align="center">
-  <em><b>Building full-stack applications with MERN </b> || <b>Open to collaborations!</b></em>
+  <em><b>🚀 MCA Student | MERN Stack Developer | Open to Collaborations</b></em>
 </p>
 
 ---
->> ##  *Things I code with ...* 
 
-<table align="center">
-  <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="45" height="45"/><br/>
-      <sub>React</sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45"/><br/>
-      <sub>Node.js</sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" width="45" height="45"/><br/>
-      <sub>Express</sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45" height="45"/><br/>
-      <sub>MySQL</sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45"/><br/>
-      <sub>MongoDB</sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45"/><br/>
-      <sub>TailwindCSS</sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="45" height="45"/><br/>
-      <sub>Java</sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" width="45" height="45"/><br/>
-      <sub>Git</sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="45" height="45"/><br/>
-      <sub>GitHub</sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=css" width="45" height="45"/><br/>
-      <sub>CSS</sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45"/><br/>
-      <sub>JavaScript</sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html" width="45" height="45"/><br/>
-      <sub>HTML</sub>
-    </td>
-  </tr>
-</table>
+## 👨‍💻 About Me
+- 🎓 Currently pursuing MCA  
+- 💻 Building full-stack apps using MERN  
+- 🌱 Exploring scalable systems & modern UI  
+- 🤝 Open to collaboration & projects  
 
+---
 
----------
-<h1 align="center">Hey 👋What's Up?</h1>
+## 🛠️ Tech Stack
 
-###
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,tailwind,js,ts,java,cpp,python,git,github,html,css,nextjs,nest" />
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="python logo"  />
-  
-  
-</div>
+---
 
+## 📊 GitHub Activity & Stats
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AshutoshPanigrahi&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=AshutoshPanigrahi&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-<table align="center">
-  <tr>
-    <td align="center" style="vertical-align: middle; padding-right: 10px;">
-      <img src="https://media.giphy.com/media/2HnegrqbSw8mS0wcoQ/giphy.gif"
-           width="50"
-           style="border-radius:50%;"
-           alt="Wave GIF">
-    </td>
-    <td align="center" style="vertical-align: middle;">
-      <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more! 💖</b></em>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshPanigrahi&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
+---
 
-<p align="center" style="margin-top:20px">
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshutoshPanigrahi&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Achievements / Level System
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AshutoshPanigrahi&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## ⚡ Developer Level (Fun Visual)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Level-Intermediate-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-FullStack-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Stack-MERN-informational?style=for-the-badge"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
   <a href="mailto:ashutoshpanigrahi11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/ashutosh-panigrahii" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge" alt="LinkedIn Badge"/>
+  <a href="https://linkedin.com/in/ashutosh-panigrahii">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge"/>
   </a>
 </p>
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=100&color=0:7928ca,50:4c7cf5,100:2afadf&fontAlignY=30&section=footer&reversal=false&textBg=false)
+---
+
+## 💬 Quote
+
+<p align="center">
+  <em>"Code. Build. Learn. Repeat."</em>
+</p>
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=0:7928ca,50:4c7cf5,100:2afadf&section=footer)
