@@ -10,27 +10,37 @@
 - 🎓 Currently pursuing MCA  
 - 💻 Building full-stack apps using MERN  
 - 🌱 Exploring scalable systems & modern UI  
-- 🤝 Open to collaboration & projects  
+- 🤝 Open to collaboration & real-world projects  
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack (Animated + Clean)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,tailwind,js,ts,java,cpp,python,git,github,html,css,nextjs,nest" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,tailwind,js,ts,java,cpp,python,git,github,nextjs,nest,html,css" />
 </p>
 
 ---
 
-## 📊 GitHub Activity & Stats
+## 🎬 Animated Tech Showcase
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshutoshPanigrahi&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=AshutoshPanigrahi&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="55"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="55"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="55"/>
+  <img src="https://skillicons.dev/icons?i=nestjs" height="55"/>
+  <img src="https://skillicons.dev/icons?i=py" height="55"/>
+  <img src="https://skillicons.dev/icons?i=js" height="55"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="55"/>
 </p>
 
+---
+
+## 📊 GitHub Stats (Live)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshPanigrahi&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AshutoshPanigrahi&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=AshutoshPanigrahi&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
 </p>
 
 ---
@@ -43,7 +53,7 @@
 
 ---
 
-## 🏆 Achievements / Level System
+## 🏆 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AshutoshPanigrahi&theme=tokyonight&no-frame=true&row=1&column=6"/>
@@ -51,7 +61,7 @@
 
 ---
 
-## ⚡ Developer Level (Fun Visual)
+## ⚡ Developer Level
 
 <p align="center">
   <img src="https://img.shields.io/badge/Level-Intermediate-blue?style=for-the-badge"/>
@@ -75,7 +85,6 @@
 ---
 
 ## 💬 Quote
-
 <p align="center">
   <em>"Code. Build. Learn. Repeat."</em>
 </p>
