@@ -86,7 +86,7 @@
 <td>
 <em>
 <b>I love connecting with people</b><br/>
-Feel free to say <b>Hi 👋</b>
+Feel free to say <b>Hello 👋</b>
 </em>
 </td>
 </tr>
