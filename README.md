@@ -28,10 +28,10 @@
 <br/>
 
 <!-- Profile View Counter — replace YOUR_GITHUB_USERNAME -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Ashutosh004-tech&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 &nbsp;
 <!-- GitHub Followers Badge — replace YOUR_GITHUB_USERNAME -->
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=58A6FF&labelColor=0d1117" alt="GitHub Followers"/>
+<img src="https://img.shields.io/github/followers/Ashutosh004-tech?label=Followers&style=for-the-badge&color=58A6FF&labelColor=0d1117" alt="GitHub Followers"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=statuspal&logoColor=white" alt="Open to Work"/>
 
@@ -58,7 +58,6 @@ Located     : Odisha, India 🇮🇳
 Role        : Aspiring Full Stack Developer
 Focus       : MERN Stack · React · Node.js
 Open For    : Internships & Entry-Level Roles
-Timezone    : IST (UTC +5:30)
 ```
 
 **🌱 Current Learning Journey**
@@ -75,11 +74,6 @@ Timezone    : IST (UTC +5:30)
 - ✅ Build a strong **developer portfolio** & personal brand
 - ✅ Explore **AI-integrated web applications**
 
-**⚡ Fun Facts**
-- 🧩 I love solving algorithmic puzzles before breakfast
-- 🎮 Gamer turned coder — debugging is my favourite level
-- 🌏 Proud of Odisha's rich culture & tech-growing ecosystem
-- 💡 Firm believer: *"Every expert was once a beginner"*
 
 <br clear="right"/>
 
@@ -105,8 +99,6 @@ Timezone    : IST (UTC +5:30)
 ### 🛠️ Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,vercel&theme=dark" alt="Tools"/>
 
-### 🚀 Currently Learning
-<img src="https://skillicons.dev/icons?i=typescript,nextjs,docker,redis&theme=dark" alt="Learning"/>
 
 </div>
 
@@ -143,30 +135,30 @@ Timezone    : IST (UTC +5:30)
 <div align="center">
 
 <!-- Row 1: Stats Card + Streak -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashutosh004-tech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh004-tech&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 
 <br/><br/>
 
 <!-- Row 2: Top Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh004-tech&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Top Languages"/>
 
 <br/><br/>
 
 <!-- Activity Graph — replace YOUR_GITHUB_USERNAME -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true&area_color=1a2a4a" alt="Activity Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh004-tech&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true&area_color=1a2a4a" alt="Activity Graph" width="95%"/>
 
 <br/><br/>
 
 <!-- Profile Summary Cards — replace YOUR_GITHUB_USERNAME -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" width="95%" alt="Profile Summary"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashutosh004-tech&theme=tokyonight" width="95%" alt="Profile Summary"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight" width="46%" alt="Repos per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashutosh004-tech&theme=tokyonight" width="46%" alt="Repos per Language"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight" width="46%" alt="Most Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashutosh004-tech&theme=tokyonight" width="46%" alt="Most Commit Language"/>
 
 </div>
 
@@ -180,7 +172,7 @@ Timezone    : IST (UTC +5:30)
 
 <!-- Replace YOUR_GITHUB_USERNAME -->
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub Trophies" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ashutosh004-tech&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub Trophies" width="95%"/>
 </div>
 
 ---
@@ -339,77 +331,6 @@ Timezone    : IST (UTC +5:30)
 </div>
 </td>
 
-<!-- ── PROJECT 4 ── -->
-<td width="50%" valign="top">
-<h3 align="center">🌐 Project Four</h3>
-<div align="center">
-<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_4" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_4&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Project 4"/>
-</a>
-<br/><br/>
-<p>A short, punchy description of what this project does and why it's awesome. Keep it to 2–3 sentences.</p>
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
-<a href="https://YOUR_LIVE_DEMO_4.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/🌐 Live Demo-58A6FF?style=for-the-badge"/>
-</a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_4" target="_blank">
-  <img src="https://img.shields.io/badge/💻 Source Code-1a1a2e?style=for-the-badge&logo=github"/>
-</a>
-</div>
-</td>
-
-</tr>
-<tr>
-
-<!-- ── PROJECT 5 ── -->
-<td width="50%" valign="top">
-<h3 align="center">📱 Project Five</h3>
-<div align="center">
-<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_5" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_5&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Project 5"/>
-</a>
-<br/><br/>
-<p>A short, punchy description of what this project does and why it's awesome. Keep it to 2–3 sentences.</p>
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-</p>
-<a href="https://YOUR_LIVE_DEMO_5.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/🌐 Live Demo-58A6FF?style=for-the-badge"/>
-</a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_5" target="_blank">
-  <img src="https://img.shields.io/badge/💻 Source Code-1a1a2e?style=for-the-badge&logo=github"/>
-</a>
-</div>
-</td>
-
-<!-- ── PROJECT 6 ── -->
-<td width="50%" valign="top">
-<h3 align="center">⚡ Project Six</h3>
-<div align="center">
-<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_6" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Project 6"/>
-</a>
-<br/><br/>
-<p>A short, punchy description of what this project does and why it's awesome. Keep it to 2–3 sentences.</p>
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-</p>
-<a href="https://YOUR_LIVE_DEMO_6.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/🌐 Live Demo-58A6FF?style=for-the-badge"/>
-</a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_6" target="_blank">
-  <img src="https://img.shields.io/badge/💻 Source Code-1a1a2e?style=for-the-badge&logo=github"/>
-</a>
-</div>
-</td>
 
 </tr>
 </table>
@@ -436,7 +357,7 @@ Timezone    : IST (UTC +5:30)
 <div align="center">
 
 <!-- Replace YOUR_GITHUB_USERNAME below -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&layout=compact" alt="WakaTime Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ashutosh004-tech&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&layout=compact" alt="WakaTime Stats"/>
 
 </div>
 
@@ -452,7 +373,7 @@ Timezone    : IST (UTC +5:30)
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+<a href="https://github.com/Ashutosh004-tech" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;
@@ -460,7 +381,7 @@ Timezone    : IST (UTC +5:30)
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL" target="_blank">
+<a href="mailto:ashutoshpanigrahi11@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
@@ -494,34 +415,6 @@ Timezone    : IST (UTC +5:30)
 
 </div>
 
----
-
-<!-- ═══════════════════════════════════════════ -->
-<!--         SPOTIFY / NOW PLAYING (OPTIONAL)    -->
-<!-- ═══════════════════════════════════════════ -->
-
-## 🎵 Now Playing
-
-<!--
-  Spotify Now Playing Setup:
-  1. Go to https://github.com/novatorem/novatorem and fork the repo
-  2. Follow the README instructions to connect your Spotify account
-  3. Deploy to Vercel and set the required environment variables
-  4. Replace YOUR_VERCEL_APP_NAME below with your deployed app name
-  5. If you don't use Spotify, delete this entire section
--->
-
-<div align="center">
-
-<!-- Replace YOUR_VERCEL_APP_NAME with your deployed Spotify status app URL -->
-<a href="https://open.spotify.com" target="_blank">
-  <img src="https://novatorem-YOUR_VERCEL_APP_NAME.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/>
-</a>
-
-</div>
-
----
-
 <!-- ═══════════════════════════════════════════ -->
 <!--              FOOTER / WAVE SECTION          -->
 <!-- ═══════════════════════════════════════════ -->
@@ -538,9 +431,9 @@ Timezone    : IST (UTC +5:30)
 <br/><br/>
 
 <!-- "Show some ❤️" counter — replace YOUR_GITHUB_USERNAME -->
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars%20on%20my%20repos&style=social" alt="Stars"/>
+<img src="https://img.shields.io/github/stars/Ashutosh004-tech?label=Stars%20on%20my%20repos&style=social" alt="Stars"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social" alt="Follow"/>
+<img src="https://img.shields.io/github/followers/Ashutosh004-tech?label=Follow&style=social" alt="Follow"/>
 
 </div>
 
