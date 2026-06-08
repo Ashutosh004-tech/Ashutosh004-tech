@@ -97,7 +97,7 @@ Open For    : Internships & Entry-Level Roles
 <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="Database Skills"/>
 
 ### 🛠️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,vercel&theme=dark" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" alt="Tools"/>
 
 
 </div>
@@ -162,20 +162,6 @@ Open For    : Internships & Entry-Level Roles
 
 </div>
 
----
-
-<!-- ═══════════════════════════════════════════ -->
-<!--              TROPHIES SECTION               -->
-<!-- ═══════════════════════════════════════════ -->
-
-## 🏆 GitHub Trophies
-
-<!-- Replace YOUR_GITHUB_USERNAME -->
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ashutosh004-tech&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub Trophies" width="95%"/>
-</div>
-
----
 
 <!-- ═══════════════════════════════════════════ -->
 <!--        CONTRIBUTION SNAKE SECTION           -->
@@ -230,11 +216,11 @@ Open For    : Internships & Entry-Level Roles
 <!-- Light mode snake — replace YOUR_GITHUB_USERNAME in the URL below -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" />
+          srcset="https://raw.githubusercontent.com/Ashutosh004-tech/Ashutosh004-tech/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
+          srcset="https://raw.githubusercontent.com/Ashutosh004-tech/Ashutosh004-tech/output/github-snake.svg" />
   <img alt="GitHub Contribution Snake" 
-       src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg"
+       src="https://raw.githubusercontent.com/Ashutosh004-tech/Ashutosh004-tech/output/github-snake.svg"
        width="95%"/>
 </picture>
 
@@ -263,7 +249,7 @@ Open For    : Internships & Entry-Level Roles
 <td width="50%" valign="top">
 <h3 align="center">🛒 Project One</h3>
 <div align="center">
-<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_1" target="_blank">
+<a href="https://github.com/Ashutosh004-tech/YOUR_REPO_1" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Project 1"/>
 </a>
 <br/><br/>
@@ -276,7 +262,7 @@ Open For    : Internships & Entry-Level Roles
 <a href="https://YOUR_LIVE_DEMO_1.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/🌐 Live Demo-58A6FF?style=for-the-badge"/>
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_1" target="_blank">
+<a href="https://github.com/Ashutosh004-tech/YOUR_REPO_1" target="_blank">
   <img src="https://img.shields.io/badge/💻 Source Code-1a1a2e?style=for-the-badge&logo=github"/>
 </a>
 </div>
@@ -286,8 +272,8 @@ Open For    : Internships & Entry-Level Roles
 <td width="50%" valign="top">
 <h3 align="center">📋 Project Two</h3>
 <div align="center">
-<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_2" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Project 2"/>
+<a href="https://github.com/Ashutosh004-tech/YOUR_REPO_2" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashutosh004-tech&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Project 2"/>
 </a>
 <br/><br/>
 <p>A short, punchy description of what this project does and why it's awesome. Keep it to 2–3 sentences.</p>
@@ -299,7 +285,7 @@ Open For    : Internships & Entry-Level Roles
 <a href="https://YOUR_LIVE_DEMO_2.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/🌐 Live Demo-58A6FF?style=for-the-badge"/>
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_2" target="_blank">
+<a href="https://github.com/Ashutosh004-tech/YOUR_REPO_2" target="_blank">
   <img src="https://img.shields.io/badge/💻 Source Code-1a1a2e?style=for-the-badge&logo=github"/>
 </a>
 </div>
@@ -307,31 +293,6 @@ Open For    : Internships & Entry-Level Roles
 
 </tr>
 <tr>
-
-<!-- ── PROJECT 3 ── -->
-<td width="50%" valign="top">
-<h3 align="center">🤖 Project Three</h3>
-<div align="center">
-<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_3" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_3&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Project 3"/>
-</a>
-<br/><br/>
-<p>A short, punchy description of what this project does and why it's awesome. Keep it to 2–3 sentences.</p>
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-</p>
-<a href="https://YOUR_LIVE_DEMO_3.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/🌐 Live Demo-58A6FF?style=for-the-badge"/>
-</a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_3" target="_blank">
-  <img src="https://img.shields.io/badge/💻 Source Code-1a1a2e?style=for-the-badge&logo=github"/>
-</a>
-</div>
-</td>
-
-
 </tr>
 </table>
 
@@ -377,7 +338,7 @@ Open For    : Internships & Entry-Level Roles
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+<a href="https://linkedin.com/in/ashutosh-panigrahii" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
@@ -385,14 +346,10 @@ Open For    : Internships & Entry-Level Roles
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
-<a href="https://YOUR_PORTFOLIO_URL" target="_blank">
+<a href="https://ashutosh-panigrahi-portfolio.onrender.com" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
 </a>
 &nbsp;
-<!-- Optional: Remove this line if you don't have X/Twitter -->
-<a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter"/>
-</a>
 
 <br/><br/>
 
