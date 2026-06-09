@@ -169,7 +169,7 @@ Open For    : Internships & Entry-Level Roles
 
 ## 🐍 Contribution Snake
 
-
+<!--
   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   SNAKE SETUP — GitHub Actions Required
   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -209,7 +209,7 @@ Open For    : Internships & Entry-Level Roles
   4. Run the workflow once manually from the Actions tab.
   5. The snake SVGs will be published to the `output` branch.
   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
+-->
 
 <div align="center">
 
@@ -300,11 +300,6 @@ Open For    : Internships & Entry-Level Roles
 
 ---
 
-<!-- ═══════════════════════════════════════════ -->
-<!--            CODING ACTIVITY SECTION          -->
-<!-- ═══════════════════════════════════════════ -->
-
-
 
 <!-- ═══════════════════════════════════════════ -->
 <!--          CONNECT WITH ME SECTION            -->
@@ -335,8 +330,7 @@ Open For    : Internships & Entry-Level Roles
 
 <br/><br/>
 
-<!-- "Let's talk" CTA banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&text=💼%20Open%20to%20Internships%20%26%20Entry-Level%20Roles!&fontSize=18&fontColor=fff&animation=fadeIn" width="80%"/>
+
 
 </div>
 
