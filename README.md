@@ -169,7 +169,7 @@ Open For    : Internships & Entry-Level Roles
 
 ## 🐍 Contribution Snake
 
-<!-- 
+
   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   SNAKE SETUP — GitHub Actions Required
   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -209,7 +209,7 @@ Open For    : Internships & Entry-Level Roles
   4. Run the workflow once manually from the Actions tab.
   5. The snake SVGs will be published to the `output` branch.
   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
--->
+
 
 <div align="center">
 
@@ -304,25 +304,7 @@ Open For    : Internships & Entry-Level Roles
 <!--            CODING ACTIVITY SECTION          -->
 <!-- ═══════════════════════════════════════════ -->
 
-## ⏱️ Coding Activity
 
-<!--
-  WakaTime Widget Setup:
-  1. Sign up at https://wakatime.com/ (free)
-  2. Install the WakaTime plugin in your code editor (VS Code, etc.)
-  3. Add your WakaTime API key to the plugin settings
-  4. Replace YOUR_GITHUB_USERNAME below once WakaTime has data for you
-  5. The widget auto-updates weekly via GitHub Actions (see WakaTime docs)
--->
-
-<div align="center">
-
-<!-- Replace YOUR_GITHUB_USERNAME below -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ashutosh004-tech&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&layout=compact" alt="WakaTime Stats"/>
-
-</div>
-
----
 
 <!-- ═══════════════════════════════════════════ -->
 <!--          CONNECT WITH ME SECTION            -->
