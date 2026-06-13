@@ -163,60 +163,14 @@ Open For    : Internships & Entry-Level Roles
 </div>
 
 
-<!-- ═══════════════════════════════════════════ -->
-<!--        CONTRIBUTION SNAKE SECTION           -->
-<!-- ═══════════════════════════════════════════ -->
-
-## 🐍 Contribution Snake
-
-<!--
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  SNAKE SETUP — GitHub Actions Required
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  1. In your profile repo, create the folder:
-       .github/workflows/
-  2. Create a file named: snake.yml
-  3. Paste the following content into it:
-
-  ───────────────────────────────────────────
-  name: Generate Snake Animation
-
-  on:
-    schedule:
-      - cron: "0 */12 * * *"   # runs every 12 hours
-    workflow_dispatch:
-
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      permissions:
-        contents: write
-      steps:
-        - uses: Platane/snk/svg-only@v3
-          with:
-            github_user_name: YOUR_GITHUB_USERNAME
-            outputs: |
-              dist/github-snake.svg
-              dist/github-snake-dark.svg?palette=github-dark
-
-        - uses: crazy-max/ghaction-github-pages@v3.1.0
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  ───────────────────────────────────────────
-  4. Run the workflow once manually from the Actions tab.
-  5. The snake SVGs will be published to the `output` branch.
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
--->
+>
 
 <div align="center">
 
 <!-- Light mode snake — replace YOUR_GITHUB_USERNAME in the URL below -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/Ashutosh004-tech/Ashutosh004-tech/output/github-snake-dark.svg" />
+          srcset="https://raw.githubusercontent.com/Ashutosh004-techAshutosh004-tech/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)"
           srcset="https://raw.githubusercontent.com/Ashutosh004-tech/Ashutosh004-tech/output/github-snake.svg" />
   <img alt="GitHub Contribution Snake" 
