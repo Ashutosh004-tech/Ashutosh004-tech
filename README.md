@@ -163,24 +163,7 @@ Open For    : Internships & Entry-Level Roles
 </div>
 
 
->
 
-<div align="center">
-
-<!-- Light mode snake — replace YOUR_GITHUB_USERNAME in the URL below -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/Ashutosh004-techAshutosh004-tech/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/Ashutosh004-tech/Ashutosh004-tech/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" 
-       src="https://raw.githubusercontent.com/Ashutosh004-tech/Ashutosh004-tech/output/github-snake.svg"
-       width="95%"/>
-</picture>
-
-</div>
-
----
 
 <!-- ═══════════════════════════════════════════ -->
 <!--          FEATURED PROJECTS SECTION          -->
