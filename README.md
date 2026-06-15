@@ -298,7 +298,7 @@ Open For    : Internships & Entry-Level Roles
 
 <br/><br/>
 
-<!-- "Show some ❤️" counter — replace YOUR_GITHUB_USERNAME -->
+<!-- "Show some ❤️ " counter — replace YOUR_GITHUB_USERNAME -->
 <img src="https://img.shields.io/github/stars/Ashutosh004-tech?label=Stars%20on%20my%20repos&style=social" alt="Stars"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/Ashutosh004-tech?label=Follow&style=social" alt="Follow"/>
