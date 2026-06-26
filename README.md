@@ -61,7 +61,7 @@ Open For    : Internships & Entry-Level Roles
 ```
 
 **🌱 Current Learning Journey**
-- 🔭 Building full-stack projects with the **MERN Stack**
+- 🔭 Building full-stack projects with the **MERN Stack** 
 - 📖 Deepening knowledge in **React.js** & **Node.js / Express.js**
 - 🛢️ Mastering **MongoDB** for scalable database design
 - 🤖 Exploring **AI/ML concepts** and prompt engineering
@@ -73,7 +73,6 @@ Open For    : Internships & Entry-Level Roles
 - ✅ Contribute meaningfully to **open-source** repositories
 - ✅ Build a strong **developer portfolio** & personal brand
 - ✅ Explore **AI-integrated web applications**
-
 
 <br clear="right"/>
 
