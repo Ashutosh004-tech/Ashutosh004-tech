@@ -141,11 +141,6 @@ Open For    : Internships & Entry-Level Roles
 
 <br/><br/>
 
-<!-- Row 2: Top Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh004-tech&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Top Languages"/>
-
-<br/><br/>
-
 <!-- Activity Graph — replace YOUR_GITHUB_USERNAME -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh004-tech&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true&area_color=1a2a4a" alt="Activity Graph" width="95%"/>
 
