@@ -181,7 +181,7 @@ Open For    : Internships & Entry-Level Roles
 <h3 align="center">🛒 Project One</h3>
 <div align="center">
 <a href="https://github.com/Ashutosh004-tech/YOUR_REPO_1" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Project 1"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashutosh004-tech&repo=https://github.com/Ashutosh004-tech/Smart-College-Placement-Portal&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Project 1"/>
 </a>
 <br/><br/>
 <p>A short, punchy description of what this project does and why it's awesome. Keep it to 2–3 sentences.</p>
