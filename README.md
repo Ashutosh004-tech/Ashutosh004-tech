@@ -41,12 +41,12 @@
 
 I'm an aspiring **Full Stack Developer** based in **Odisha, India 🇮🇳**, focused on building clean, functional products with the **MERN stack**. I like turning half-formed ideas into working software, and I'm currently deep into React, Node.js, and AI-integrated web apps.
 
-```yaml
+\`\`\`yaml
 role:      Full Stack Developer (Aspiring)
 stack:     MongoDB · Express.js · React · Node.js
 learning:  AI/ML concepts, prompt engineering, system design
 open_to:   Internships & entry-level roles
-```
+\`\`\`
 
 **🌱 Currently**
 - 🔭 Building full-stack projects with the **MERN Stack**
@@ -79,21 +79,31 @@ open_to:   Internships & entry-level roles
 
 <div align="center">
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark" alt="Frontend Skills"/>
+<table>
+<tr>
+<td align="center" width="33%">
 
-<br/><br/>
+**🎨 Frontend**
 
-**Backend & Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Backend Skills"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark&perline=3" alt="Frontend Skills"/>
 
-<br/><br/>
+</td>
+<td align="center" width="33%">
 
-**Tools & Platforms**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma&theme=dark" alt="Tools"/>
+**⚙️ Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark&perline=2" alt="Backend Skills"/>
+
+</td>
+<td align="center" width="33%">
+
+**🧰 Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma&theme=dark&perline=3" alt="Tools"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
