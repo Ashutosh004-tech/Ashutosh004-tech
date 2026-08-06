@@ -93,10 +93,8 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Ashutosh004-tech/Ashutosh004-tech/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<img src="./assets/divider.svg" alt="divider" width="100%"/>
 </div>
-
-> 💡 To enable the snake animation above, add the **[platane/snk](https://github.com/Platane/snk)** GitHub Action to your profile repo — it auto-generates that SVG for you.
 
 ## 🤝 Connect With Me
 
