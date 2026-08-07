@@ -84,11 +84,6 @@
 
 </div>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="./assets/divider.svg" alt="divider" width="100%"/>
-</div>
 
 ## 🤝 Connect With Me
 
