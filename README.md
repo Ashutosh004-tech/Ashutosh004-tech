@@ -84,12 +84,6 @@
 
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ashutosh004-tech&theme=algolia&no-frame=true&row=1&column=7" alt="trophies"/>
-</div>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
