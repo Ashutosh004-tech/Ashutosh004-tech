@@ -172,20 +172,6 @@ Every project is an opportunity to understand something a little deeper.
 
 ---
 
-## 🏆 Contributions
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Ashutosh004-tech&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh004-tech/Ashutosh004-tech/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
 ---
 
 <p align="center">
