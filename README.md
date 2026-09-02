@@ -25,7 +25,6 @@ const ashutosh = {
   currentlyLearning: [
     "Advanced React",
     "Backend Architecture",
-    "System Design",
     "DSA"
   ],
   lookingFor: [
